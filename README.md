@@ -1,4 +1,4 @@
-# IPL Prediction Using Linear Regression.
+# IPL Prediction Using Logistic Regression.
 
 This code will implement a Linear Regression model on the dataset from CricSheets and use the model to predict the outcomes of IPL matches.
 Reference used https://towardsdatascience.com/predicting-ipl-match-winner-fc9e89f583ce
